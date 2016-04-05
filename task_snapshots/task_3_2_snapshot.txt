@@ -1,1 +1,287 @@
+HTTP/1.1 200 OK
 
+x-frame-options:
+    SAMEORIGIN
+last-modified:
+    Tue, 05 Apr 2016 09:07:46 GMT
+status:
+    200 OK
+Content-Length:
+    5919
+x-response-time:
+    109
+Connection:
+    keep-alive
+x-transaction:
+    23c8d5c17bc02dc0
+Server:
+    tsa_b
+pragma:
+    no-cache
+cache-control:
+    no-cache, no-store, must-revalidate, pre-check=0, post-check=0
+x-connection-hash:
+    2a48e7ccee5fbefeb0ec365e4938a71f
+x-xss-protection:
+    1; mode=block
+x-content-type-options:
+    nosniff
+expires:
+    Tue, 31 Mar 1981 05:00:00 GMT
+Date:
+    Tue, 05 Apr 2016 09:07:46 GMT
+set-cookie:
+    lang=es; Path=/
+set-cookie:
+    guest_id=v1%3A145984726592385042; Domain=.twitter.com; Path=/; Expires=Thu, 05-Apr-2018 09:07:46 UTC
+content-disposition:
+    attachment; filename=json.json
+x-twitter-response-tags:
+    BouncerCompliant
+strict-transport-security:
+    max-age=631138519
+x-access-level:
+    read-write-directmessages
+Content-Type:
+    application/json;charset=utf-8
+
+
+{
+  "created_at": "Tue Apr 05 09:07:45 +0000 2016",
+  "id": 717277537341153300,
+  "id_str": "717277537341153280",
+  "text": "RT @cfarre: 100 portraits that tell the stories of people underrepresented in tech: https://t.co/UmK4yuMvFA by @sarahfkessler via @FastComp\u2026",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "cfarre",
+        "name": "Carles Farré",
+        "id": 18244676,
+        "id_str": "18244676",
+        "indices": [
+          3,
+          10
+        ]
+      },
+      {
+        "screen_name": "SarahFKessler",
+        "name": "Sarah Kessler",
+        "id": 21789052,
+        "id_str": "21789052",
+        "indices": [
+          111,
+          125
+        ]
+      },
+      {
+        "screen_name": "FastCompany",
+        "name": "Fast Company",
+        "id": 2735591,
+        "id_str": "2735591",
+        "indices": [
+          130,
+          140
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/UmK4yuMvFA",
+        "expanded_url": "http://www.fastcompany.com/3058519/these-100-portraits-tell-the-stories-of-people-underrepresented-in-tech",
+        "display_url": "fastcompany.com/3058519/these-\u2026",
+        "indices": [
+          84,
+          107
+        ]
+      }
+    ]
+  },
+  "truncated": false,
+  "source": "<a href="https://apigee.com/console/twitter" rel="nofollow">Apigee's API Console</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 377420241,
+    "id_str": "377420241",
+    "name": "Albert Suàrez",
+    "screen_name": "alsumo95",
+    "location": "Cardedeu",
+    "description": "20.\r\nEstudiante de Ingeniería Informática en la UPC (BCN).\r\nDeportista desde la conciencia. Culé. Y feliz.\r\n15 Æ",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 49,
+    "friends_count": 30,
+    "listed_count": 2,
+    "created_at": "Wed Sep 21 15:07:11 +0000 2011",
+    "favourites_count": 12,
+    "utc_offset": 3600,
+    "time_zone": "Casablanca",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 110,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "EBEBEB",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/502822039862779904/SO3MONXC_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/502822039862779904/SO3MONXC_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/377420241/1408717611",
+    "profile_link_color": "990000",
+    "profile_sidebar_border_color": "DFDFDF",
+    "profile_sidebar_fill_color": "F3F3F3",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Mon Apr 04 20:21:17 +0000 2016",
+    "id": 717084647360970800,
+    "id_str": "717084647360970756",
+    "text": "100 portraits that tell the stories of people underrepresented in tech: https://t.co/UmK4yuMvFA by @sarahfkessler via @FastCompany /",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "SarahFKessler",
+          "name": "Sarah Kessler",
+          "id": 21789052,
+          "id_str": "21789052",
+          "indices": [
+            99,
+            113
+          ]
+        },
+        {
+          "screen_name": "FastCompany",
+          "name": "Fast Company",
+          "id": 2735591,
+          "id_str": "2735591",
+          "indices": [
+            118,
+            130
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/UmK4yuMvFA",
+          "expanded_url": "http://www.fastcompany.com/3058519/these-100-portraits-tell-the-stories-of-people-underrepresented-in-tech",
+          "display_url": "fastcompany.com/3058519/these-\u2026",
+          "indices": [
+            72,
+            95
+          ]
+        }
+      ]
+    },
+    "truncated": false,
+    "source": "<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 18244676,
+      "id_str": "18244676",
+      "name": "Carles Farré",
+      "screen_name": "cfarre",
+      "location": "BCN, Solar System",
+      "description": "Associate Professor at the Barcelona School of Informatics (FIB) - Barcelona Tech (UPC)",
+      "url": "https://t.co/vTK5ecmPoS",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/vTK5ecmPoS",
+              "expanded_url": "http://www.essi.upc.edu/~farre/",
+              "display_url": "essi.upc.edu/~farre/",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 228,
+      "friends_count": 109,
+      "listed_count": 23,
+      "created_at": "Fri Dec 19 16:18:57 +0000 2008",
+      "favourites_count": 187,
+      "utc_offset": 7200,
+      "time_zone": "Rome",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 3507,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/653851135443369984/nQ0qwAfh.jpg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/653851135443369984/nQ0qwAfh.jpg",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/707994634224603136/wnwma4cB_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/707994634224603136/wnwma4cB_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/18244676/1457634219",
+      "profile_link_color": "3B94D9",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 9,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 9,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": true,
+  "possibly_sensitive": false,
+  "lang": "en"
+}
